@@ -80,6 +80,3 @@ def manage_stocks(list_type):
 
     save_stocks(file_name, stocks)
     print(f"{list_type.capitalize()} stock list saved.")
-
-manage_stocks("personal")
-manage_stocks("watchlist")
