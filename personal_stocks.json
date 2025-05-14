@@ -1,0 +1,82 @@
+[
+    {
+        "ticker": "VOO",
+        "avg_price": 404.96
+    },
+    {
+        "ticker": "COST",
+        "avg_price": 618.82
+    },
+    {
+        "ticker": "GOOGL",
+        "avg_price": 134.03
+    },
+    {
+        "ticker": "MSFT",
+        "avg_price": 301.61
+    },
+    {
+        "ticker": "AMZN",
+        "avg_price": 123.33
+    },
+    {
+        "ticker": "AAPL",
+        "avg_price": 163.16
+    },
+    {
+        "ticker": "JPM",
+        "avg_price": 164.21
+    },
+    {
+        "ticker": "UNH",
+        "avg_price": 503.9
+    },
+    {
+        "ticker": "AZO",
+        "avg_price": 2925.94
+    },
+    {
+        "ticker": "LMT",
+        "avg_price": 446.78
+    },
+    {
+        "ticker": "CHD",
+        "avg_price": 88.08
+    },
+    {
+        "ticker": "KO",
+        "avg_price": 60.68
+    },
+    {
+        "ticker": "LOW",
+        "avg_price": 214.31
+    },
+    {
+        "ticker": "MA",
+        "avg_price": 442.8
+    },
+    {
+        "ticker": "UBER",
+        "avg_price": 69.01
+    },
+    {
+        "ticker": "PG",
+        "avg_price": 149.32
+    },
+    {
+        "ticker": "JNJ",
+        "avg_price": 161.48
+    },
+    {
+        "ticker": "INTU",
+        "avg_price": 484.94
+    },
+    {
+        "ticker": "TRV",
+        "avg_price": 251.93
+    },
+    {
+        "ticker": "PANW",
+        "avg_price": 155.0
+    }
+]
